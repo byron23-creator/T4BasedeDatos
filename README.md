@@ -1,7 +1,7 @@
 Capturas de Pantalla de la carga de DATOS a las distintas tablas 
 
 1 - CAMIONEROS 
-![image](https://github.com/user-attachments/assets/c1ed0198-6a3d-4c05-bfa7-731021d00d26)
+![Captura de pantalla 2025-04-20 a la(s) 8 03 21 p  m](https://github.com/user-attachments/assets/2162bd52-1883-4dcf-8312-eacd0689ae1a)
 
 2 - Ciudades
 ![Captura de pantalla 2025-04-20 a la(s) 6 56 28 p  m](https://github.com/user-attachments/assets/51918fc9-7bfe-4938-8ee4-4998e8c73e86)
